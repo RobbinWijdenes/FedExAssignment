@@ -1,5 +1,12 @@
 # FedEx Frontend QA - Javascript Test Assessment
 
+Instructions html report:
+Create html test report with `node cucumber-html-report`
+Test reports can be changed. in `cucumber-html-report.json`
+
+Bug found:
+- When user clears search form previous results are not removed. 
+
 # Read the ASSESSMENT
 
 The assessment information is located in the file: [ASSESSMENT.MD](./ASSESSMENT.MD)
