@@ -1,0 +1,5 @@
+node_modules
+jsonlogs
+reports
+cypress/videos
+cypress/screenshots
