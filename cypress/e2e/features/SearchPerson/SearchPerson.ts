@@ -61,7 +61,6 @@ When("the user clears the search form", () => {
 
 Then("the user should see no search results", () => {
   cy.get("#characterName").should('not.exist')
-  //
 });
 
 Given("the user has searched for a valid planet", () => {

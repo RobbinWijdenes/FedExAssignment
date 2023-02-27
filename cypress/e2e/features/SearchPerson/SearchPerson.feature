@@ -1,9 +1,3 @@
-# Feature: duckduckgo.com
-#   Scenario: visiting the frontpagex
-#     When I visit duckduckgo.com
-#     Then I should see a search bar
-
-
 Feature: Search Person functionality
   Scenario: Search for Star Wars character 
     Given the user is on the star wars search website
