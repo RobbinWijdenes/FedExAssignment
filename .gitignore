@@ -3,3 +3,4 @@ jsonlogs
 reports
 cypress/videos
 cypress/screenshots
+cucumber-results.json
